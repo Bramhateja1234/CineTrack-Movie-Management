@@ -1,0 +1,21 @@
+# Java / Maven
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+frontend/coverage/
+
+# Environment files
+frontend/.env*
+backend/.env*
+
+# IDE and OS files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+
+# Logs
+*.log
